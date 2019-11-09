@@ -2070,7 +2070,7 @@ MonoBehaviour:
   DetectionArea3: {fileID: 1312173464}
   score: 0
   displayScoreText: {fileID: 1649327567}
-  gameDuration: 10
+  gameDuration: 30
   player: {fileID: 1075495286}
   ReturnButton: {fileID: 1013026952}
   TryAgainButton: {fileID: 73714027}
