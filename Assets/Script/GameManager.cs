@@ -86,7 +86,7 @@ public class GameManager : MonoBehaviour
             else if ((int)gameTimer <= gameDuration+3 && (int)gameTimer > gameDuration)
             {
                 timerText.fontSize = 80;
-                timerText.color = Color.black;
+                timerText.color = Color.white;
                 timerText.text = ((int)gameTimer - gameDuration).ToString();
             }
             else {
